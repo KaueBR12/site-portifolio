@@ -10,7 +10,7 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 
 **Ultimos Updates**
 - [x] Login com facebook.
-- [x] Login com facebook.
+- [ ] Login com facebook.
 - [ ] Pagina sobre a empresa
 
 ## Módulo  1
