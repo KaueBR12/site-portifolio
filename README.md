@@ -32,3 +32,44 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 >Este é um blockquote, usado para destacar alguma área.
 >
 >segunda área 
+
+# **EXEMPLO DE CODIGO**
+
+Comando para salvar 
+````
+git add .
+````
+
+comandado para para salvar no repositorio
+
+````
+git commit -m "algum nome"
+````
+
+comando para enviar pro repositorio main
+````
+git push 
+````
+
+**Exemplo de Script:**
+````js
+function meunome(){
+    return 'bem vindo' + nome
+}
+````
+
+**Exemplo de HTML:**
+
+````html
+<h1>
+    Titulo do projeto
+    <span> curso GIT</span>
+</h1>
+````
+
+**CSS:**
+````css
+.titulo{
+    backgorund-color: #fff
+}
+````
