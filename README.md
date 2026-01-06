@@ -53,7 +53,7 @@ git push
 
 **Exemplo de Script:**
 ````js
-function meunome(){
+function meunome(nome){
     return 'bem vindo' + nome
 }
 ````
