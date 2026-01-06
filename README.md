@@ -20,4 +20,6 @@ _teste2_ -> italico
 
 ### Rede social 
 
-[Instagram](https://instagram.com/kauepereira43)
+[**Instagram**](https://instagram.com/kauepereira43)
+
+[**Youtube**](https://youtube.com.br)
