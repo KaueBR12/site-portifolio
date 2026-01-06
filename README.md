@@ -76,5 +76,14 @@ function meunome(nome){
 ````css
 .titulo{
     backgorund-color: #fff
+    color: #ffff
 }
 ````
+
+Propriedade | Descrição
+------------|-----------
+name | para informar o nome de usuario
+size | para definir o tamanho do campo
+backgorund | cor de fundo da area em HEX
+onPress | Funcção chamada quando clicar no botão 
+
