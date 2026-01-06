@@ -82,8 +82,8 @@ function meunome(nome){
 
 Propriedade | Descrição
 ------------|-----------
-name | para informar o nome de usuario
+name | para informar o **nome** de usuario
 size | para definir o tamanho do campo
 backgorund | cor de fundo da area em HEX
-onPress | Funcção chamada quando clicar no botão 
+onPress | _Função chamada quando clicar no botão_ 
 
