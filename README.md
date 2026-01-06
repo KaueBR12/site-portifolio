@@ -12,7 +12,7 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 1. Começando com GIT.
     1. Oque é GIT?
     2. Instalando o GIT na maquina
-    
+
 2. aaaaaaaaaaa.
      1. Oque é GIT?
      2. Instalando o GIT na maquina
@@ -28,3 +28,7 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 [**Instagram**](https://instagram.com/kauepereira43)
 
 [**Youtube**](https://youtube.com.br)
+
+>Este é um blockquote, usado para destacar alguma área.
+>
+>segunda área 
