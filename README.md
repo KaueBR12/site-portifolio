@@ -9,6 +9,10 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 * GIT avançado.
 * Usando Github de forma profissional. 
 
+1. aaaaaaaaaaa
+2. aaaaaaaaaaa
+3. aaaaaaaaaaa
+
 
 
 ### Rede social 
