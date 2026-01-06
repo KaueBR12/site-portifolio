@@ -38,7 +38,7 @@ Nesse curso voce vai dominar todo o **GIT** e **Github** _do zero ao profissiona
 >
 >segunda área 
 
-# **EXEMPLO DE CODIGO**
+### **EXEMPLO DE CODIGO**
 
 Comando para salvar 
 ````
